@@ -1,9 +1,16 @@
 body {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 main {
-    width: 550px;
-    margin: 0 auto;
-    padding: 1em;
-    text-align: center; 
+  width: 550px;
+  margin: 0 auto;
+  padding: 1em;
+  text-align: center;
+}
+
+ol,
+li,
+.list {
+  margin-left: 66px;
+  width: fit-content;
 }
